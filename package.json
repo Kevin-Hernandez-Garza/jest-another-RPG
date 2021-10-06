@@ -1,0 +1,25 @@
+{
+  "name": "jest",
+  "version": "1.0.0",
+  "description": "Jest Testing Framework",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kevin-Hernandez-Garza/jest-another-RPG.git"
+  },
+  "keywords": [
+    "TDD"
+  ],
+  "author": "Kevin Hernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kevin-Hernandez-Garza/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/Kevin-Hernandez-Garza/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^27.2.4"
+  }
+}
